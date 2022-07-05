@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-.idea
-node_modules
+/.idea
+/node_modules
 vue/node_modules
