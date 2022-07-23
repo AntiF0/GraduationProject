@@ -29,5 +29,5 @@
     [![j5kBhn.png](https://s1.ax1x.com/2022/07/16/j5kBhn.png)](https://imgtu.com/i/j5kBhn)
 4. 数据分析
     [![j5k6XT.png](https://s1.ax1x.com/2022/07/16/j5k6XT.png)](https://imgtu.com/i/j5k6XT)
-5. 简介模式
+5. 简洁模式
     [![j5kgnU.png](https://s1.ax1x.com/2022/07/16/j5kgnU.png)](https://imgtu.com/i/j5kgnU)
